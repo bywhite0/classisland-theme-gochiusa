@@ -15,6 +15,13 @@
 
 - 课程表
 
+## 使用
+
+1. 在您的 ClassIsland 安装 [ClassIsland 主题加载器](https://github.com/ClassIsland/ClassIsland.ThemeLoader)插件，然后重启您的 ClassIsland。
+2. 下载本项目，解压至 `path/to/ClassIsland/Config/Plugins/classIsland.themeLoader/Themes` 文件夹下（如无该文件夹可自行创建）。
+3. 在 ClassIsland 应用设置中进入“主题”选项卡，启用本主题。
+4. 点击“重载主题”按钮，Enjoy it！
+
 ## 许可证
 
 本项目使用 `GPL-3.0` 许可。
